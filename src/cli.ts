@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import stringify = require('json-stable-stringify')
 import process = require('process')
 
