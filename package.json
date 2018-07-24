@@ -18,7 +18,9 @@
     "watch": "tsc --pretty -p tsconfig.json --watch true"
   },
   "dependencies": {
-    "json-stable-stringify": "^1.0.1"
+    "@types/yargs": "^11.1.1",
+    "json-stable-stringify": "^1.0.1",
+    "yargs": "^12.0.1"
   },
   "devDependencies": {
     "@types/json-stable-stringify": "^1.0.32",
