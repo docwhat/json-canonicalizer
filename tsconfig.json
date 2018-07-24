@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": ["es2015"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "target": "es2015",
+    "types": ["node"],
+    "outDir": "./bin"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "__tests__", "**/*.test.ts", "examples", "lib"]
+}
