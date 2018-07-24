@@ -2,6 +2,9 @@
   "name": "json-canonicalizer",
   "version": "1.0.0",
   "description": "Converts JSON into a canonical (sorted) form.",
+  "homepage": "https://github.com/docwhat/json-canonicalizer",
+  "bugs": "https://github.com/docwhat/json-canonicalizer/issues",
+  "repository": "https://github.com/docwhat/json-canonicalizer.git",
   "license": "MIT",
   "author": "Christian Höltje <https://docwhat.org/>",
   "bin": {
