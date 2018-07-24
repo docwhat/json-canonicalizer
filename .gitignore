@@ -68,3 +68,5 @@ typings/
 
 # Built code
 /bin/
+/yarn.lock
+/package-lock.json

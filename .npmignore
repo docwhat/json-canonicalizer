@@ -65,3 +65,10 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Source
+/src/
+/ts*.json
+/.*.json
+/yarn.lock
+/package-lock.json
