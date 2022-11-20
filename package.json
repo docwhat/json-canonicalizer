@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@types/json-stable-stringify": "^1.0.32",
-    "@types/node": "^10.5.2",
+    "@types/node": "^18.0.0",
     "prettier": "^1.13.7",
     "tslint": "^5.11.0",
     "tslint-config-prettier": "^1.14.0",
